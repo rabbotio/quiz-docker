@@ -1,8 +1,11 @@
 @ katopz
+
 > What options `-d` use for?
-```js
+
+```shell
 docker-compose up -d
 ```
+
 - "Detached mode"
 - "Debug mode"
 - "Don't start linked services"
